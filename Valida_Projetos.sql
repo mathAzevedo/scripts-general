@@ -1,3 +1,9 @@
+-- =============================================
+-- Autor: Matheus do Carmo Azevedo
+-- Criado em: 22/04/2020
+-- Descricao: https://data4all.data.blog/2020/04/22/validate-de-projetos-script-para-validacao-de-todos-os-projetos-do-ssis/
+-- =============================================
+
 /* Declara as variaveis */
 
 DECLARE @validation_id BIGINT
